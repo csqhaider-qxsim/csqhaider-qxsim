@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csqhaider-qxsim" alt="csqhaider-qxsim" /></a> </p>
 
+- 🔭 I’m currently working on **A web application project, emulating the environment of a small, innovative start-up**
+
 - 🌱 I’m currently learning **Networks and Operating Systems, Usability Engineering**
 
 - 💬 Ask me about **Java, SQL**
