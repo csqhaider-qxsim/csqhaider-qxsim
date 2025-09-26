@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Qasim Haider</h1>
+<h1 align="center">Hi 👋, I am Qasim Haider</h1>
 <h3 align="center">A passionate Computer Science student currently studying in UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csqhaider-qxsim&label=Profile%20views&color=0e75b6&style=flat" alt="csqhaider-qxsim" /> </p>
